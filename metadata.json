@@ -1,0 +1,8 @@
+{
+  "name": "Cuidarte - Elder Care Assistant",
+  "description": "A comprehensive elder care application featuring medication tracking, social connection, and cognitive exercises.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
